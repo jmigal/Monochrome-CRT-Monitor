@@ -5,7 +5,7 @@ PROJECT STATUS: Final stretch of the design phase.
 
 <br>
 
-Why?
+## Why?
 <br>
 After ordering a copy of AoE i started scrolling through a PDF of it when i stumbled upon the television section, and that got me wondering, "Could i build one?".
 
