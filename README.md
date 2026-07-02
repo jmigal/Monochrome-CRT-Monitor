@@ -5,6 +5,7 @@ PROJECT STATUS: Final stretch of the design phase.
 
 <br>
 
+Why?
 After ordering a copy of AoE i started scrolling through a PDF of it when i stumbled upon the television section, and that got me wondering, "Could i build one?".
 
 Following that i quickly found out that there's hardly anything answering the question "How do i build a CRT from shits and bits?". There's a lot on how they work and how to repair them but i never found much on designing your own and i cannot put into words how pissed off i was after realising that, so im aiming to make this project's documentation answer exactly that.
